@@ -17,8 +17,7 @@ The circuit can operate as both a high-pass and low-pass filter, with an adjusta
 
 - [Schematic](./schematic/)
 - [LTspice Simulation](./simulation/)
-- [Circuit Explanation](./documentation/)
-- [Electronics Handbook](./electronics-handbook/)
+- [Circuit Explanation](./documentation/)/
 
 ## Status
 
